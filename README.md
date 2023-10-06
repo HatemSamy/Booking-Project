@@ -2,7 +2,7 @@
 
 <h1 align="center" id="title">Booking-project</h1>
 
-<p align="center"><img src="https://www.forbes.com/advisor/wp-content/uploads/2022/08/Image_-_E-Commerce_Website_.jpeg.jpg" alt="project-image" width="750"></p>
+<p align="center"><img src="https://github.com/HatemSamy/Booking-Project/assets/126292572/8926d0d3-2d62-4630-8f90-60f9c6a4b6a7" width="750"></p>
 
 <h2>Introduction:</h2>
 <p id="description">This Node.js API project with MongoDB integration provides essential functionalities for managing hotel bookings. It includes features such as user authentication, hotel management, room booking, and booking management. Built with Node.js, Express, and MongoDB, the project ensures efficient performance and reliability..</p>
