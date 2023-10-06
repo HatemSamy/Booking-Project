@@ -1,11 +1,11 @@
-# Booking-Project
+
 
 <h1 align="center" id="title">Booking-project</h1>
 
 <p align="center"><img src="https://www.forbes.com/advisor/wp-content/uploads/2022/08/Image_-_E-Commerce_Website_.jpeg.jpg" alt="project-image" width="750"></p>
 
 <h2>Introduction:</h2>
-<p id="description">The e-commerce API project built with Node.js and MongoDB offers a comprehensive set of features that cover user management, product management, cart management, order management, brand management, review management, coupon management, error handling, pagination, and more. These features collectively provide a robust and scalable foundation for building an advanced e-commerce platform.</p>
+<p id="description">This Node.js API project with MongoDB integration provides essential functionalities for managing hotel bookings. It includes features such as user authentication, hotel management, room booking, and booking management. Built with Node.js, Express, and MongoDB, the project ensures efficient performance and reliability..</p>
 
 <h2>Project Screenshots:</h2>
 
